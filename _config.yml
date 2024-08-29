@@ -1,0 +1,8 @@
+title: Wildo Jhonatan Barrientos Herrera
+logo: /assets/img/cv.png
+description: Portafolio
+show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+gem "github-pages", group: :jekyll_plugins
