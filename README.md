@@ -1,6 +1,6 @@
 # Desarrollador de Software Senior 
 
-### Con 5 años y 3 meses de experiencia hasta el 2024, con especialidad en el Backend
+### Con 6 años y 3 meses de experiencia hasta el 2025, con especialidad en el Backend
 
 #### Habilidades Tecnicas: Java 8 11 17, JavaEE, NodeJs, C# .net, mysql, postgresql, bases de datos SQL y NOSQL, javascript, typescript, angular, pruebas unitarias y de integracion, linux, git, Metodologias de Desarrollo Agil, docker y kubernetes, tecnologias cloud, github, angular
 
