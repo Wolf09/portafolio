@@ -1,15 +1,23 @@
-# Desarrollador de Software Senior 
+# Ingeniero de Software Senior 
 
-### Con 6 años y 3 meses de experiencia hasta el 2025, con especialidad en el Backend
+### Con más de 6 años de experiencia hasta el 2026, con especialidad en el Backend
 
-#### Habilidades Tecnicas: Java 8 11 17, JavaEE, NodeJs, C# .net, mysql, postgresql, bases de datos SQL y NOSQL, javascript, typescript, angular, pruebas unitarias y de integracion, linux, git, Metodologias de Desarrollo Agil, docker y kubernetes, tecnologias cloud, github, angular
+#### Habilidades Tecnicas: Java 8 11 17, JavaEE, NodeJs, C# .net, Nodejs, Express, nestjs, Python, Django, mysql, postgresql, bases de datos SQL y NOSQL, javascript, typescript, angular, pruebas unitarias y de integracion, linux, git, Metodologias de Desarrollo Agil, docker y kubernetes, tecnologias cloud, github, angular
 
 ## Educación
 
-- Ingeniero en Sistemas | Universidad Mayor de San Simón (_2017_)								       		
+- Ingeniero en Sistemas | Universidad Mayor de San Simón | Bolivia					       		
 
 
 ## Experiencia Laboral
+
+**INGENIERO DE SOFTWARE SENIOR @ TRILOGY SOFTWARE BOLIVIA (_Septiembre 2024 - Septiembre 2025_)**
+
+***Proyectos***
+- Desarrollo, mantenimiento y Refactorizacion de aplicaciones web y moviles tanto para empresas privadas como publicas
+
+***Tecnologías Utilizadas***
+- JAVA(1.8,11,17), JAVASE, JAVAEE, Angular, MySQL, JPA Hibernate, C# .net, Nodejs, Express, nestjs, Python, Django, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, Apache Tomcat, WildFly, Spring Framework y Spring Boot, Git con Github, Linux
 
 **DESARROLLO Y MANTENIMIENTO DE SOFTWARE @ SOLIDEV TECHNOLOGY (_Septiembre 2022 - Septiembre 2023_)**
 
@@ -17,7 +25,7 @@
 - Desarrollo, mantenimiento y Refactorizacion de aplicaciones web y moviles tanto para empresas privadas como publicas
 
 ***Tecnologías Utilizadas***
-- JAVA(1.8,11,17), JAVASE, JAVAEE, Nodejs, JavaScript, Typescript, C# .net, Angular, MySQL, JPA Hibernate, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, Apache Tomcat, WildFly, Spring Framework y Spring Boot, Git con Github, Linux
+- JAVA(1.8,11,17), JAVASE, JAVAEE, Angular, MySQL, JPA Hibernate, C# .net, Nodejs, Express, nestjs, Python, Django, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, Apache Tomcat, WildFly, Spring Framework y Spring Boot, Git con Github, Linux
 
 **PROGRAMADOR PROYECTO “CORE” @ BANCO UNION S.A. (_Mayo 2022 – Septiembre 2022_)**
 
@@ -25,31 +33,31 @@
 - Mantenimiento al proyecto Core del Banco
 
 ***Tecnologías Utilizadas*** 
-- JAVA(1.8), JAVASE, JAVAEE, C# .net, Nodejs, javascript, Angular, Mysql, JPA Hibernate, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, WildFly, Git con Github, Linux
+- JAVA(1.8), JAVASE, JAVAEE, Angular, Mysql, JPA Hibernate, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, WildFly, Git con Github, Linux 
 
-**INGENIERO DE SOPORTE @ AXIROS LATAM (_Enero 2021 – Septiembre 2021_)**
+**INGENIERO DE SOPORTE @ AXIROS LATAM (_Enero 2021 – Abril 2022_)**
 
 ***Proyectos***
 - Mantenimiento a las aplicaciones de monitoreo y soporte de Axiros
 
 ***Tecnologías Utilizadas***
-- Nodejs, Javascript, Java, C#, Mysql, Linux, Github
+- Nodejs, Express, nestjs, Javascript, Python, Django,, Mysql, Linux, Github 
 
-**DESARROLLO Y MANTENIMIENTO DE SOFTWARE @ SOLIDEV TECHNOLOGY (_Septiembre 2022 - Septiembre 2023_)**
+**DESARROLLO Y MANTENIMIENTO DE SOFTWARE @ SOLIDEV TECHNOLOGY (_Enero 2020 - Enero 2021_)**
 
 ***Proyectos***
 - Desarrollo, mantenimiento y Refactorizacion de aplicaciones web y moviles tanto para empresas privadas como publicas
 
 ***Tecnologías Utilizadas***
-- JAVA(11,17), JAVASE, JAVAEE, Nodejs, JavaScript, Typescript, C# .net, Angular, MySQL, JPA Hibernate, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, Apache Tomcat, WildFly, Spring Framework y Spring Boot, Git con Github, Linux
+- JAVA(1.8,11,17), JAVASE, JAVAEE, Angular, MySQL, JPA Hibernate, C# .net, Nodejs, Express, nestjs, Python, Django, PostgreSQL, JAX-WS, JAX-RS, REST, SOAP, JWT, Apache Tomcat, WildFly, Spring Framework y Spring Boot, Git con Github, Linux
 
-**DESARROLLO Y MANTENIMIENTO DE SISTEMAS Y REDES @ FACULTAD DE ARQUITECTURA U.M.S.S. (_Enero 2018 – Diciembre 2019_)**
+**DESARROLLO Y MANTENIMIENTO DE SISTEMAS Y REDES @ FACULTAD DE ARQUITECTURA U.M.S.S. (_Enero 2018 – Enero 2020_)**
 
 ***Proyectos***
 - Desarrollo, mantenimiento de aplicaciones web y de Escritorio para el Departamento de Control de gestión
 
 ***Tecnologías Utilizadas***
-- JAVA(1.8), JAVASE, JAVAEE, Angular, JavaScript, Typescript, C# .net, Mysql, Spring Framework, Linux (__)
+- JAVA(1.8), JAVASE, JAVAEE, Angular, Mysql, Spring Framework, Linux
 
 ## Fortalezas (_*_)
 - Solución de problemas
@@ -60,7 +68,6 @@
 
 ## Debilidades (_*_)
 - Autocrítico
-- Desconfianza
 - Perfeccionista
 - Resignación
 
